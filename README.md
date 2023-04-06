@@ -7,3 +7,4 @@ See the accompanying YouTube tutorials @ https://www.youtube.com/channel/UCyR2Ct
 If you want to get updated when new tutorials are out, sign up at [DataIndependent](https://dataindependent.com/)
 
 This series is provided by and associated with [DataIndependent](https://dataindependent.com/)
+Corresponding video - https://www.youtube.com/watch?v=h0DHDp1FbmQ
